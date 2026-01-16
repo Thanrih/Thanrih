@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: cover" height=20% weight=100% src="https://drive.google.com/file/d/1iyNBHnUAt-zUWCo3ev5ezrcQrFX0h8Oc/view?usp=sharing" />
+<img align="center" style="margin-bottom:100px; object-fit: cover" height=20% weight=100% src="https://cdnb.artstation.com/p/assets/images/images/095/450/641/original/thanrih-68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3036372f3136392f3037342f6f726967696e616c2f6a6f6e617468616e2d726f647269677565732d616e696d6163616f2e6769-3.gif?1768580750" />
 &nbsp;&nbsp;&nbsp;
 
 
