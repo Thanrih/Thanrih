@@ -2,7 +2,12 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Artista e programador, eu desde pequeno sempre amei tecnologia e arte, e quando me tornei adulto, isso não mudou. Eu já sabia onde eu queria estar assim que terminei o ensino médio, e não perdi tempo para entrar em uma faculdade cursando engenharia de software. Agora flerto com a loucura desenvolvendo aplicações mirabolantes, tanto web, quanto mobile.</p>&nbsp;
+<p align="center">
+  Artista e programador, desde pequeno eu sempre amei tecnologia e arte. Quando cresci, isso não mudou.
+  Assim que terminei o ensino médio, eu já sabia onde queria estar e não perdi tempo: entrei na faculdade de Engenharia de Software.
+  Hoje, flerto com a loucura criando aplicações mirabolantes, tanto para web quanto para mobile.
+</p>&nbsp;
+
  
  &nbsp;
  &nbsp;
